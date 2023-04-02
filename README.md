@@ -17,6 +17,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ArsenRafayelyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+# Code Wars:
+[![codewars](https://www.codewars.com/users/ArsenRafayelyan/badges/large)](https://www.codewars.com/users/ArsenRafayelyan)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArsenRafayelyan&icon=2&color=6)](https://visitcount.itsvg.in)
